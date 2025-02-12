@@ -34,11 +34,14 @@
 
 <div align="center">
   <h2>🏆 Stats:</h2>
-  <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=erisk405&show_icons=true&theme=dark" />
-  &nbsp;&nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erisk405&layout=compact&theme=dark" />
-</p>
+ <table align="center" width="100%" height="100%">
+    <tr>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erisk405&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=erisk405&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erisk405&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erisk405&theme=github_dark" alt="Zane's GitHub Stats"/></td>
+    </tr>
+ </table>
 </div>
 
 <div align="center">
