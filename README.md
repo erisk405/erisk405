@@ -43,7 +43,7 @@
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
-  <img src="https://github.com/erisk405/erisk405/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/erisk405/erisk405/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
 
