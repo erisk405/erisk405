@@ -34,6 +34,11 @@
 
 <div align="center">
   <h2>🏆 Stats:</h2>
+  <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=erisk405&show_icons=true&theme=dark" />
+  &nbsp;&nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erisk405&layout=compact&theme=dark" />
+</p>
 </div>
 
 <div align="center">
@@ -41,9 +46,7 @@
   <img src="https://github.com/erisk405/erisk405/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=erisk405&theme=github_dark" alt="erisk405's GitHub Stats"/>
-</div>
+
 
 <div align="center">
   <h2>🎮 When i'm AFK</h2>
