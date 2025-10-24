@@ -1,13 +1,16 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi,👋 I’m Krittaphat! 
-<br /> 
-<p align="left"> I am a full-stack developer skilled in Next.js, Express, React, and Tailwind CSS. I am focused on building responsive and user-friendly websites.</p>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi,👋 I’m Krittaphat! </h1>
 
-<p align="left">I am seeking an internship as a Backend Developer, Frontend Developer, or Data Analyst. I enjoy exploring new frameworks like Actix Web to boost backend performance and am open to learning languages like Rust or C for further optimization.</p>
+<h3 align="center">
+A passionate Full-Stack Developer who loves turning ideas into real, user-friendly products 🚀
+</h3>
 
-- 👀 I’m interested in developer and data structure
-- 🌱 I’m currently learning Next.js , Node.js , Actix Web , Rust Programming
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me eriss.k405@gmail.com
+### 👨‍💻 About Me
+- 🔥 Full-Stack Developer with experience in **Next.js, Express, React, Tailwind CSS**
+- 🏢 Intern developer at **Gofive Co., Ltd.**
+- 🛠 Currently improving features & fixing bugs in **Empeo HR System**
+- 💡 Keen on clean architecture, performance, and well-structured code
+- 📚 Learning **Rust, Actix Web, Angular, ASP.NET Core**
+- 🤝 Open to collaboration on real-world impactful projects
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=erisk405&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="erisk405" style="padding-right:20px;" />
@@ -19,9 +22,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,rust,html,css,tailwind,js,ts,nextjs,react,express,nodejs,postgres,prisma,postman" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,rust,html,css,tailwind,js,ts,nextjs,react,express,nodejs,postgres,prisma,postman,dotnet,docker,kubernetes,flutter,java,angular" />
   </a>
 </p>
+
+
+### 📫 Contact
+📩 Email: **eriss.k405@gmail.com**  
+🌐 Portfolio: [_Krittaphat_](https://portfolio-smoky-tau-91.vercel.app/) 😄
+
 
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
