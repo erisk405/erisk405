@@ -12,6 +12,10 @@ A passionate Full-Stack Developer who loves turning ideas into real, user-friend
 - 📚 Learning **Rust, Actix Web, Angular, ASP.NET Core**
 - 🤝 Open to collaboration on real-world impactful projects
 
+### 📫 Contact
+📩 Email: **eriss.k405@gmail.com**  
+🌐 Portfolio: [_Krittaphat_](https://portfolio-smoky-tau-91.vercel.app/) 😄
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=erisk405&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="erisk405" style="padding-right:20px;" />
 </p>
@@ -26,10 +30,6 @@ A passionate Full-Stack Developer who loves turning ideas into real, user-friend
   </a>
 </p>
 
-
-### 📫 Contact
-📩 Email: **eriss.k405@gmail.com**  
-🌐 Portfolio: [_Krittaphat_](https://portfolio-smoky-tau-91.vercel.app/) 😄
 
 
 <!--Trophies Section-->   
