@@ -29,31 +29,7 @@ A passionate Full-Stack Developer who loves turning ideas into real, user-friend
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,rust,html,css,tailwind,js,ts,nextjs,react,express,nodejs,postgres,prisma,postman,dotnet,docker,kubernetes,flutter,java,angular" />
   </a>
 </p>
-
-
-
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/Kiran1689/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=erisk405&amp;row=2&amp;column=6&amp;margin-w=20&amp;margin-h=20" alt="GitHub Trophies">
-  </a>
-</p>
 <br>
-
-<div align="center">
-  <h2>🏆 Stats:</h2>
- <table align="center" width="100%" height="100%">
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=erisk405&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=erisk405&theme=github_dark&utcOffset=10" alt="Zane's GitHub Stats"/>
-    </tr>
-   <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=erisk405&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=erisk405&theme=github_dark" alt="Zane's GitHub Stats"/></td>
-   </tr>
- </table>
-</div>
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
@@ -61,22 +37,6 @@ A passionate Full-Stack Developer who loves turning ideas into real, user-friend
   <img src="https://raw.githubusercontent.com/erisk405/erisk405/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
   <img src="https://raw.githubusercontent.com/erisk405/erisk405/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
 </div>
-
-
-<div align="center">
-  <h2>🎮 When i'm AFK</h2>
-  
-  ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
-  ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)
-  ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
-  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-</div>
-
-
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
 
 <!---
 erisk405/erisk405 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
